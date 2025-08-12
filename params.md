@@ -1,4 +1,5 @@
 ## Params 
+# visible to other users \
 
 - `id`: the unique identifier of the account
 - `displayName`: the current display name of the account
